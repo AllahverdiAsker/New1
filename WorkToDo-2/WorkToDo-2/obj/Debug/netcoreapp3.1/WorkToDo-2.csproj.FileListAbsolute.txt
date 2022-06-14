@@ -1,0 +1,14 @@
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\bin\Debug\netcoreapp3.1\WorkToDo-2.exe
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\bin\Debug\netcoreapp3.1\WorkToDo-2.deps.json
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\bin\Debug\netcoreapp3.1\WorkToDo-2.runtimeconfig.json
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\bin\Debug\netcoreapp3.1\WorkToDo-2.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\bin\Debug\netcoreapp3.1\WorkToDo-2.dll
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\bin\Debug\netcoreapp3.1\WorkToDo-2.pdb
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\obj\Debug\netcoreapp3.1\WorkToDo-2.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\obj\Debug\netcoreapp3.1\WorkToDo-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\obj\Debug\netcoreapp3.1\WorkToDo-2.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\obj\Debug\netcoreapp3.1\WorkToDo-2.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\obj\Debug\netcoreapp3.1\WorkToDo-2.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\obj\Debug\netcoreapp3.1\WorkToDo-2.dll
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\obj\Debug\netcoreapp3.1\WorkToDo-2.pdb
+C:\Users\BAKU\source\repos\WorkToDo-2\WorkToDo-2\obj\Debug\netcoreapp3.1\WorkToDo-2.genruntimeconfig.cache
